@@ -1,2 +1,2 @@
-# SoftuniPHP-Calculator
-Homework Calculator
+# SoftuniPHP-HomeWork
+Homework PHP
